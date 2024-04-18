@@ -5,7 +5,7 @@ string? opcionElegidaEnLaConsola = string.Empty, valorDeLaConsola = string.Empty
 
 while (detenerCalculadora == false) { 
     Console.WriteLine("*********************************");
-    Console.WriteLine("CALCULADORA DEVORAHOMBRES");
+    Console.WriteLine("CALCULADORA");
     Console.WriteLine("*********************************");
     Console.WriteLine("Este programa trabaja con 2 números. Elige una opción:");
     Console.WriteLine("1. Sumar");
